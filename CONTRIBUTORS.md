@@ -35,7 +35,7 @@
 
 #### Name: [Patrick S](https://github.com/patsteph)
 - Place: USA
-- Bio: Professional Geek
+- Bio: Professional Gee
 - GitHub: [Patrick S](https://github.com/patsteph)
 
 #### Name: [Michael Cao](https://github.com/mcao)
