@@ -1,4 +1,4 @@
 Ben Edelson
 ==========
-Information Technology
+Information technology
 2020
