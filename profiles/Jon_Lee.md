@@ -2,7 +2,7 @@
 
 ## About me:
 
-17 years old student. 
+17 years old student 
 
 ## Certificates:
 - None
